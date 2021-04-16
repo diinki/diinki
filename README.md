@@ -1,4 +1,7 @@
-### Hi there 👋
+### time to ~~throw~~ code
+
+me diinki, I make some things. Most interesting things can be seen at
+[kayowo.net](http://kayowo.net)
 
 <!--
 **diinki/diinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
