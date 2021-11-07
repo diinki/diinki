@@ -1,37 +1,26 @@
-# Diinki Gato's page!
-
-me diinki, I make some things. Most interesting things can be seen at
-[kayowo.net](https://kayowo.net/Pages/ProjectsPage/)
-
-
----
-### DIINKIROWO theme
-
-The theme-pack I use for VScode can be found by searching *diinkirowo* in the extension marketplace in visual studio code!
-I made it myself and it has a bunch of themes with my favorite color combinations! A very dark-mode theme.
-
-Examples of two of the themes that comes with the pack:
+# diinki's page with diinkiz stuff 
 
 <div>
-<img src="https://raw.githubusercontent.com/diinki/diinkirowo-theme/master/images/NIGHTLY.png" alt="Example 1" width="49%">
-<img src="https://raw.githubusercontent.com/diinki/diinkirowo-theme/master/images/BLACK_HAT.png" alt="Example 1" width="49%">
+ 
+<img src="https://data.kayowo.net/xavax_resources/art/icons/xavax_logo_.gif" alt="Example 1" width="7%"> 
+<img src="https://kayowo.fra1.digitaloceanspaces.com/xavax_resources/art/icons/xavax_logo_.gif" alt="Example 2" width="7%">
+<img src="https://data.kayowo.net/xavax_resources/art/icons/xavax_logo_.gif" alt="Example 1" width="7%"> 
 </div>
 
+Me diinki, engineer programmah boi that creates things, wanna read my logs or see projects?
+[kayowo.net](https://kayowo.net/Pages/ProjectsPage/) here! Kayowo is an umbrella above all my projects! *and maybe also someone elses in the future, who knows*
+
+One project I work sleeplessly on is...
+
+#### XAVAX
 
 
->[Theme Repo](https://github.com/diinki/diinkirowo-theme)
+me diinki, I dislike corporations that steal data, and authoritarianism, and any large centralized power! Me like decentralization, and Web3!
+I try to help with my code, like my with my [xavax](https:xavax.io) web3 project! Tools and stuff for decentralized networks! weally cool
 
-<!--
-**diinki/diinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+here is one Rust library that is part of xavax!
+[xavax-avalanche](https://github.com/diinki/xavax-avalanche)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+there is more to come...
+
