@@ -17,10 +17,11 @@ ___
 ### XAVAX
 
 
-me diinki, I dislike corporations that steal data and authoritarianism anndddd any large centralized power! Me like decentralization, freedom, and Web3!
+me diinki, I dislike corporations that steal data, authoritarianism and any large centralized power with potential for power abuse! Web3 for me represents decentralization & censorship resistance, freedom...
+
 I try to help with my code, like my with my [xavax](https://xavax.io) web3 project! Tools and stuff for decentralized networks! weally cool
 
 
-here is one Rust library that is part of xavax!
+here is one Rust library which implements the Avalanche transaction format for anything such as creating subnets, transactions of any kind, staking n stuff, its used in the Metro wallet ecosystem by xavax! Chek it out :D
 [xavax-avalanche](https://github.com/diinki/xavax-avalanche)
 
