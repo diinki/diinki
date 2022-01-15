@@ -1,4 +1,4 @@
-# diinki's page with diinkiz stuff 
+# Me
 
 <div>
 <img src="https://data.kayowo.net/xavax_resources/art/icons/xavax_logo_.gif" alt="Example 1" width="7%"> 
@@ -7,8 +7,8 @@
 </div>
 
 ### KAYOWO
-Me diinki, engineer programmah boi that creates things, wanna read my logs or see projects?
-[kayowo.net](https://kayowo.net/Pages/ProjectsPage/) here! Kayowo is an umbrella above all my projects! *and maybe also someone elses in the future, who knows*
+Me diinki, or Ira. Engineer coder boi that creates things, wanna read my logs or see projects?
+[kayowo.net](https://kayowo.net/Pages/ProjectsPage/) here! Kayowo is an umbrella above all my projects, more personal shit and art is at [drimp.net](https://drimp.net/)
 
 ___
 
@@ -17,11 +17,16 @@ ___
 ### XAVAX
 
 
-me diinki, I dislike corporations that steal data, authoritarianism and any large centralized power with potential for power abuse! Web3 for me represents decentralization & censorship resistance, freedom...
+Monopolies gathering data on people, manipulating people with the data they collect. Authoritarian countries with centralized leaders feeding their egos while causing needless suffering to certain groups of people, making it harder for anyone to make an actual difference. Let's try to do our best to change all of that.
 
-I try to help with my code, like my with my [xavax](https://xavax.io) web3 project! Tools and stuff for decentralized networks! weally cool
+[xavax](https://xavax.io) web 3.0 projects, Tools and stuff for decentralized networks, use the tools to build self custodial shit.
 
 
-here is one Rust library which implements the Avalanche transaction format for anything such as creating subnets, transactions of any kind, staking n stuff, its used in the Metro wallet ecosystem by xavax! Chek it out :D
+The xavax-avalanche SDK is a fully feature complete SDK for avalanche, if you use the Dev-branch, you can select which features to include which allow you to:
+* Create any kind of avalanche transaction, on all chains.
+* Create and import keychains.
+* Sign transactions
+* Broadcast them to avalanche nodes
+All with one SDK! (very wip).
 [xavax-avalanche](https://github.com/diinki/xavax-avalanche)
 
