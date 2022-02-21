@@ -7,7 +7,7 @@ I've got some things on my personal [imp.works](https://imp.works) website! :D
 
 ## xavax.io project
 
-[xavax.io](https://xavax.io) web 3.0 apps & tools n' stuff for decentralized networks, use the tools to build self custodial shit, or use the software by xavax.io to be a self-custodian; become less dependent on centralized organizations & governments that steal & spy on our data, using it to further manipulate us.
+[xavax.io](https://xavax.io) creates web 3.0 apps & tools n' stuff for decentralized networks, use the tools to build self custodial shit, or use the software by xavax.io to be a self-custodian; become less dependent on centralized organizations & governments that steal & spy on our data, using it to further manipulate us.
 
 <h2 align="center">xavax-avalanche</h2>
 
