@@ -2,8 +2,8 @@
 <h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://imp.works" target="_blank">diinki's</a> github page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-🌹 I'm a coder engineer artist nb that creates things ✧ (=w=) ✦ I love creating things, the network of creation is my home. <br>
-My own website is <a href="https://imp.works" target="_blank">imp.works</a>, which also contains my blog. 🌹
+🌹 Î'm a programmer engîneer artîst nb that creates thîngs ✧ (=w=) ✦ Î lîve to create thîngs, And then network of creatîon îs my home. <br>
+My own websîte îs <a href="https://dîînkî.împ.studîo" target="_blank">dîînkî.împ.studîo</a>, which also contains my blog. 🌹
 </p>
 <h1> </h1>
 <br>
@@ -13,7 +13,7 @@ My own website is <a href="https://imp.works" target="_blank">imp.works</a>, whi
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Rust-lang ■ Operating Systems ■ Art & Creativity ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Machînes ■ Operatîng Systems ■ Art & Creatîvîty ■  &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
@@ -22,8 +22,8 @@ My own website is <a href="https://imp.works" target="_blank">imp.works</a>, whi
 
 
   <p align="center">
-  ▮ I code in a lot of different domains so the topic rarely matters to me; as long as I find it interesting enough I'll do it. I find
-  implementing different protocols of various complexities a lovely activity, my favorite language is Rust-lang. ▮
+  ▮ Î code în a lot of dîfferent domaîns, so the stack or topîc doesn't really matter to me. As long as
+    Î fînd ît înterestîng, Î'll do ît; and the same applîes to artwork. ▮
   </p>
         <img src="https://media1.giphy.com/media/xUOwG6WpYHxPEx86EE/giphy.gif" width="10%">
 
