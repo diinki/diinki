@@ -13,7 +13,7 @@ My own website is <a href="https://imp.works" target="_blank">imp.works</a>, whi
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Rust-lang ■ Operating Systems ■ Artistic Systems ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Rust-lang ■ Operating Systems ■ Art & Creativity ■  &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
