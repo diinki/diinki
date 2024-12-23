@@ -3,7 +3,7 @@
 <br>
 <p align="center">
 🌹 Î'm a programmer engîneer artîst nb that creates thîngs ✧ (=w=) ✦ Î lîve to create thîngs, And then network of creatîon îs my home. <br>
-My own websîte îs <a href="https://dîînkî.împ.studîo" target="_blank">dîînkî.împ.studîo</a>, which also contains my blog. 🌹
+My own websîte îs <a href="https://diinki.works" target="_blank">diinki.works</a>, which also contains my blog. 🌹
 </p>
 <h1> </h1>
 <br>
