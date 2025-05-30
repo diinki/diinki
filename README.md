@@ -2,8 +2,8 @@
 <h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> Welcome to <a href="https://imp.works" target="_blank">diinki's</a> github page <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
 <br>
 <p align="center">
-🌹 Hello! I'm Ira, a diinki. I'm a programmer engîneer artîst nb that creates things ✧ (=w=) ✦ The network of creation is my home. <br>
-My own websîte is <a href="https://diinki.works" target="_blank">diinki.works</a> (might not be finished yet), which also contains my blog. 🌹
+🌹 Hello! I'm Ira, a diinki. I'm a programmer engineer artist nb that creates things ✧ (=w=) ✦ The network of creation is my home. <br>
+My own website is <a href="https://diinki.works" target="_blank">diinki.works</a> (might not be finished yet), which also contains my blog. 🌹
 </p>
 <h1> </h1>
 <br>
@@ -13,7 +13,7 @@ My own websîte is <a href="https://diinki.works" target="_blank">diinki.works</
   <div>
      <kbd>
        <br>
-       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Machine ■ Operatîng System ■ Artwork ■  &nbsp; &nbsp;  &nbsp; &nbsp;
+       &nbsp; &nbsp;  &nbsp; &nbsp; ■ Machine ■ Operating System ■ Artwork ■  &nbsp; &nbsp;  &nbsp; &nbsp;
        <br> <br>
      </kbd>
   <div>
