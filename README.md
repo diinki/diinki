@@ -3,7 +3,7 @@
 <br>
 <p align="center">
 🌹 Hello! I'm Ira, a diinki. I'm a programmer engineer artist nb that creates things ✧ (=w=) ✦ The network of creation is my home. <br>
-My own website is <a href="https://diinki.works" target="_blank">diinki.works</a> (might not be finished yet), which also contains my blog. 🌹
+My own website is <a href="https://diinki.works" target="_blank">tbd</a> (might not be finished yet), which also contains my blog. 🌹
 </p>
 <h1> </h1>
 <br>
